@@ -1,8 +1,12 @@
 # First_script_project
 This small project works on archiving data in specific folders, and in order to upload the project I used the git and the terminal to upload the project.
 
+
 # This little script run to flutter data in the system and put them in specific folders than send me an email message that 
 # verify mission is complete
+
+![Screenshot from 2024-10-04 11-34-53](https://github.com/user-attachments/assets/ce3de8e2-a226-498e-a348-c596486b1a20)
+
 
 import os 
 import shutil
