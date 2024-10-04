@@ -5,7 +5,13 @@ This small project works on archiving data in specific folders, and in order to 
 # This little script run to flutter data in the system and put them in specific folders than send me an email message that 
 # verify mission is complete
 
-![Screenshot from 2024-10-04 11-34-53](https://github.com/user-attachments/assets/ce3de8e2-a226-498e-a348-c596486b1a20)
+![Screenshot from 2024-10-04 11-34-53](https://github.com/user-attachments/assets/e16a5566-4bdb-4486-abee-58144fc13d26)
+
+
+![Screenshot from 2024-10-04 11-42-10](https://github.com/user-attachments/assets/14af64db-0136-4b4f-bbc5-bcf40afaf332)
+
+![Screenshot from 2024-10-04 11-50-50](https://github.com/user-attachments/assets/c03607e5-8e1c-4b4d-89b5-e445342158d0)
+
 
 
 import os 
