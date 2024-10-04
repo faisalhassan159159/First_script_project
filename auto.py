@@ -84,6 +84,8 @@ def organize4():
             print("Organizing Codes Done")
 organize4()
 
+# sending email message to conform process is done
+
 def notiefy_me():
 
     server =smtplib.SMTP("smtp.gmail.com",587)
